@@ -1,0 +1,1 @@
+# PPM-Simple-Example-Next-Activity-and-Remaining-Time-Prediction-Based-on-LSTM-and-Attention-Mechanism
